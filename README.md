@@ -3,6 +3,7 @@
 
 ## Usado
 
-```kotlin
+### Kotlin
+
 DI -> Modulo Gemini
 API_KEY = 'WRITE YOUR_API_KEY_HERE'
