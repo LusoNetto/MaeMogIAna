@@ -1,28 +1,8 @@
-# Gemini AI Starter Project
+# Aplicativo android de Chatbot com IA
 
-This project provides basic examples to start using Gemini AI
 
-## Usage
+## Usado
 
 ```kotlin
-DI->GeminiModule
+DI -> Modulo Gemini
 API_KEY = 'WRITE YOUR_API_KEY_HERE'
-# ppa-anaigom-eam
-# MaeMogIAna
-# MaeMogIAna
-# MaeMogIAna
-# MaeMogIAna
-# MaeMogIAna
-# MaeMogIAna
-# MaeMogIAna
-# MaeMogIAna
-# MaeMogIAna
-# MaeMogIAna
-# MaeMogIAna
-# MaeMogIAna
-# MaeMogIAna
-# MaeMogIAna
-# MaeMogIAna
-# MaeMogIAna
-# MaeMogIAna
-# MaeMogIAna
